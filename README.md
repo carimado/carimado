@@ -1,6 +1,6 @@
 ### Hi there, my name is Clarence 👋
 
-#### A Junior front-end developer, aspiring UX Engineer in Sydney, Australia. 👨‍💻
+#### A junior front-end developer, aspiring UX Engineer in Sydney, Australia. 👨‍💻
 
 Over the last few years, I discovered my passion lies with both people and technology. With a background in design and newly found interest in code, my aim is to bridge the gap between the two. I get inspired by all disciplines and experiment by making things fun. At the heart of it, I love to make cool sh*t and watch it come to life!
 
