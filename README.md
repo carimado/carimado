@@ -20,5 +20,6 @@ Languages and Tools Learnt:
 - Git/Version Control
 
 Other tools:
+- G Suite & MS Office
 - Adobe Creative Suite
 - Figma
