@@ -11,7 +11,7 @@ Over the last few years, I discovered my passion lies with both people and techn
 - 📫 How to reach me: clarencejames@live.com.au
 - 😄 Pronouns: he/him
 
-Languages and Tools Learnt:
+Languages and Tools Learning/Learnt:
 - HTML, CSS
 - Javascript
 - Python
